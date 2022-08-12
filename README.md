@@ -13,6 +13,7 @@ https://api.sap.com/api/opportunity/overview
 sap-opportunity-sql には、sqlの設定ファイルとして以下のsqlファイルが含まれています。  
 
 * sap-opportunity-sql-opportunity-collection-data.sql（SAP オポチュニティ - オポチュニティデータ）
+* sap-opportunity-sql-opportunity-revenue-plan-header-collection-data.sql（SAP オポチュニティ - オポチュニティリヴェニューデータ）
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
 MySQLのセットアップ / Kubernetesの設定 / 具体的なSQLテーブルの作成方法、については、[mysql-kube](https://github.com/latonaio/mysql-kube)を参照ください。
